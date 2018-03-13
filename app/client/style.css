@@ -1,0 +1,8 @@
+.img-background {
+  background: url('/images/whydoweneedt.jpg');
+  background-size: cover;
+}
+
+h1, h3 {
+  color: white;
+}
